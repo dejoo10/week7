@@ -3,7 +3,7 @@
 ### Group presentations
 
 - [Criteria](https://github.com/ML-2024/week4/blob/main/material/group-project.md) for the report and the presentation
-- 10 minutes/group 
+- 12 minutes/group 
 - Q&A and Transition Time: 2 minutes per group
 
 ### RNN & Transformers
