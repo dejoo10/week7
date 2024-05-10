@@ -2,6 +2,7 @@
 
 ### Group presentations
 
+- Once you provide [feedback for the course](https://ojp.metropolia.fi/lomakkeet/1/lomake.html?code=VFgwMEVYOTEtMzAwMQ==&lang=en), submit confirmation to Oma.
 - [Criteria](https://github.com/ML-2024/week4/blob/main/material/group-project.md) for the report and the presentation
 - 12 minutes/group 
 - Q&A and Transition Time: 2 minutes per group
