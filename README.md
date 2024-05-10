@@ -25,6 +25,8 @@
   - Video Tutorial: [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
   - Kaggle course: [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
   - [Applications of Deep Neural Networks](https://github.com/jeffheaton/t81_558_deep_learning)
+  - [Applications of Generative Artificial Intelligence](https://github.com/jeffheaton/app_generative_ai)
+  - [Coursera: Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - Books:
   - Deep Learning with Python, Second Edition, By Francois Chollet
   - deep learning from scratch
